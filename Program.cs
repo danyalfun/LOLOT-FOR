@@ -96,6 +96,7 @@ namespace ConsoleApp3
             Console.WriteLine("max result = " + maxresult);
 
         }
+        static void 
         static void Main(string[] args)
         {
             //Task1();
